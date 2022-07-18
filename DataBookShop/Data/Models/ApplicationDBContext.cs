@@ -9,5 +9,6 @@ namespace DataBookShop.Data.Models
 {
     public class ApplicationDBContext:DbContext
     {
+
     }
 }
