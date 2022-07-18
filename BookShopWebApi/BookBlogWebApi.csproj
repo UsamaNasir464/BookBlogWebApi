@@ -12,4 +12,8 @@
     <ProjectReference Include="..\DataBookShop\DataBookBlog.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>

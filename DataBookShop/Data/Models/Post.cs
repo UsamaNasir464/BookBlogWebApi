@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DataBookShop.Data.Models
 {
-    class Post
+    public class Post
     {
         public int PostId { get; set; }
         public string PostTitle { get; set; }
