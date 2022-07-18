@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataBookShop.Data.Models
 {
-    class ApplicationUser
+    public class ApplicationUser
     {
         public int AuthorId { get; set; }
         public string  AuthorName { get; set; }
